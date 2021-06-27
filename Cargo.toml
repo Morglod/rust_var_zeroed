@@ -1,0 +1,15 @@
+[package]
+name = "rust_var_zeroed"
+version = "0.1.0"
+authors = ["Kruzhkov Vladimir <morglod@gmail.com>"]
+edition = "2018"
+description = "Create zeroed structs with rust without Default trait"
+readme = "README.md"
+documentation = "https://github.com/Morglod/rust_var_zeroed"
+repository = "https://github.com/Morglod/rust_var_zeroed"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rust_var_zeroed = "0.1.0"
